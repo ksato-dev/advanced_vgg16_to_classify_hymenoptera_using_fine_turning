@@ -1,0 +1,3 @@
+[submodule "advanced_vgg16_to_classify_hymenoptera"]
+	path = advanced_vgg16_to_classify_hymenoptera
+	url = git@github.com:ksato-dev/advanced_vgg16_to_classify_hymenoptera.git
